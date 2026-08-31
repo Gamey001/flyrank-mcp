@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "type": "stdio",
+      "command": "/Users/user/.nvm/versions/node/v22.6.0/bin/npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/user/Documents/GitHub/new/ai/flyrank-mcp"
+      ],
+      "env": {
+        "PATH": "/Users/user/.nvm/versions/node/v22.6.0/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+      }
+    }
+  }
+}

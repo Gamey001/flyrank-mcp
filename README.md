@@ -1,2 +1,2 @@
-# flyrank
+# flyrank mcp server
 
