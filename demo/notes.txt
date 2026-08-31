@@ -1,0 +1,4 @@
+Maintenance log 2026-08-29
+- FR-2298 stock critically low, reorder threshold is 10
+- FR-4501 supplier lead time extended to 6 weeks
+- FR-1042 passed batch QA, no action
